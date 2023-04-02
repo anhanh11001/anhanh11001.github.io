@@ -5,7 +5,7 @@ date:   2019-09-07 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_5.gif"/></center>
+<center><img src="/assets/images/img_5.gif"/></center>
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/adding-time-counter-on-ordering-tickets-in-eventyay-attendee/).*
 
@@ -21,7 +21,7 @@ INTEGRATING TIME COUNTER TO YOUR SYSTEM
 
 **Step 1:** Create the UI for your time counter. In here, we made a simple View container with TextView inside to update the time.
 
-<center><img src="./images/img_8.png"></center><br>
+<center><img src="/assets/images/img_8.png"></center><br>
 
 **Step 2:** Set up the time counter with Android CountdownTimer with the total countdown time and the ticking time. In Eventyay, the default countdown time is `10 minutes (600,000 ms)` with the ticking time is `(1,000 ms)`, which means the UI is updated every one second.
 
@@ -80,8 +80,8 @@ override fun onDestroy() {
 ## Results
 
 <center>
-<img src="./images/img_6.jpeg"> 
-<img src="./images/img_7.gif">
+<img src="/assets/images/img_6.jpeg"> 
+<img src="/assets/images/img_7.gif">
 </center>
 
 ## Conclusion
@@ -89,6 +89,6 @@ override fun onDestroy() {
 For a project with a ticketing system, adding a time counter for ordering is a really helpful feature to have. With the help of Android CountdownTimer, it is really to implement this function to enhance your user experience.
 
 ## Resources
-- Eventyay Attendee Android Codebase: https://github.com/fossasia/open-event-android
+- [Eventyay Attendee Android Codebase](https://github.com/fossasia/open-event-android)
 - Eventyay Attendee Android [PR: #1843 — Add time counter on ordering ticket](https://github.com/fossasia/open-event-android/pull/1843)
-- Documentation: https://developer.android.com/reference/android/os/CountDownTimer
+- [Documentation](https://developer.android.com/reference/android/os/CountDownTimer)

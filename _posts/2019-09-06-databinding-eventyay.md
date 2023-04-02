@@ -5,7 +5,7 @@ date:   2019-09-06 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_4.png"></center>
+<center><img src="/assets/images/img_4.png"></center>
 
 ***The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/data-binding-with-kotlin-in-eventyay-attendee/).***
 
@@ -131,7 +131,7 @@ Databinding is the way to go when working with a complex UI in Android Developme
 
 ## Resources
 
-- Eventyay Attendee Android Codebase: https://github.com/fossasia/open-event-android
+- [Eventyay Attendee Android Codebase](https://github.com/fossasia/open-event-android)
 - Eventyay Attendee Android [PR: #1961 — feat: Set up data binding for Recycler/Adapter](https://github.com/fossasia/open-event-attendee-android/pull/1961)
-- Documentation: https://developer.android.com/topic/libraries/data-binding
-- Google Codelab: https://codelabs.developers.google.com/codelabs/android-databinding/#0
+- [Documentation](https://developer.android.com/topic/libraries/data-binding)
+- [Google Codelab](https://codelabs.developers.google.com/codelabs/android-databinding/#0)

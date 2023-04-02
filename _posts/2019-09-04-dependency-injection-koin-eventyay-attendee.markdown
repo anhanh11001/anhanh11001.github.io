@@ -5,7 +5,7 @@ date:   2019-09-04 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_2.png"></center>
+<center><img src="/assets/images/img_2.png"></center>
 
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/dependency-injection-with-kotlin-koin-in-eventyay-attendee/).*
@@ -43,7 +43,7 @@ implementation "org.koin:koin-androidx-viewmodel:$koin_version"
 ```
 Create a folder to manage all the dependent classes.
 
-<center><img src="./images/img_1.png"></center>
+<center><img src="/assets/images/img_1.png"></center>
 
 Inside this Modules class, we define modules and create “dependency” class instances/singletons that can be reused or injected. For Eventyay Attendee, we define 5 modules: commonModule, apiModule, viewModelModule, networkModule, databaseModule. This saves a lot of time as we can make changes like adding/removing/editing the dependency in one place.
 
@@ -189,5 +189,5 @@ Koin is really easy to use and integrate into Kotlin Android project. Apart from
 
 ## Resources
 
-- Documentation: https://insert-koin.io/
-- Eventyay Attendee Android Codebase: https://github.com/fossasia/open-event-android
+- [Documentation](https://insert-koin.io/)
+- [Eventyay Attendee Android Codebase](https://github.com/fossasia/open-event-android)

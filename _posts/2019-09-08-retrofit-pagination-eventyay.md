@@ -5,7 +5,7 @@ date:   2019-09-08 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_9.png"></center>
+<center><img src="/assets/images/img_9.png"></center>
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/implementing-pagination-with-retrofit-in-eventyay-attendee/).*
 
@@ -175,7 +175,7 @@ class EventsListAdapter : PagedListAdapter<Event, EventViewHolder>(EventsDiffCal
 ## And here are the results
 
 <center>
-<img src="./images/img_10.gif">
+<img src="/assets/images/img_10.gif">
 </center>
 
 ## Conclusion
@@ -186,6 +186,6 @@ Pagination is the way to go for fetching items from the API and making infinite 
 
 
 ## Resources
-- Open Event Codebase: https://github.com/fossasia/open-event-attendee-android/pull/2012
-- Documentation: https://developer.android.com/topic/libraries/architecture/paging/
-- Google Codelab: https://codelabs.developers.google.com/codelabs/android-paging/#0
+- [Open Event Codebase](https://github.com/fossasia/open-event-attendee-android/pull/2012)
+- [Documentation](https://developer.android.com/topic/libraries/architecture/paging/)
+- [Google Codelab](https://codelabs.developers.google.com/codelabs/android-paging/#0)

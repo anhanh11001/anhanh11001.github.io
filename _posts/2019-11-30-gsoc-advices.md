@@ -10,7 +10,7 @@ As a GSoC participant and finalist in 2019 with [FOSSASIA](https://github.com/fo
 
 ## About Google Summer of Code 2020
 
-<center><img src="./images/img_15.png"></center>
+<center><img src="/assets/images/img_15.png"></center>
 
 As you’re here, you should already know what is GSoC. If not then to keep things short, here are the links to the official GSoC page:
 

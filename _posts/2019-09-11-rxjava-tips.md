@@ -5,7 +5,7 @@ date:   2019-09-11 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_13.png"></center>
+<center><img src="/assets/images/img_13.png"></center>
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/enhancing-network-requests-by-chaining-or-zipping-with-rxjava/).*
 
@@ -86,4 +86,4 @@ Even though RxJava is pretty hard to understand and master, it is a really power
 ## Resources
 
 - Eventyay Attendee Source Code: [#2010](https://github.com/fossasia/open-event-attendee-android/pull/2010), [#2117](https://github.com/fossasia/open-event-attendee-android/pull/2117)
-- RxJava Documentation: http://reactivex.io/documentation
+- [RxJava Documentation](http://reactivex.io/documentation)

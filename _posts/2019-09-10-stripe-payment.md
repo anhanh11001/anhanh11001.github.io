@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <center>
-<img src="./images/img_11.png">
+<img src="/assets/images/img_11.png">
 </center>
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/implementing-stripe-payment-in-eventyay-attendee/).*
@@ -36,7 +36,7 @@ implementation 'com.stripe:stripe-android:10.3.0'
 The information needed for making payments are `Card Number, CVC, Expiration Date`, which can be made with simple UI (EditText, Spinner,…). Stripe support getting information with CardInputWidget but we made a custom UI for that. Here is the UI we created.
 
 <center>
-<img src="./images/img_12.jpeg">
+<img src="/assets/images/img_12.jpeg">
 </center>
 
 **Step 3:** Create a card and validate information
@@ -83,6 +83,6 @@ With Stripe, user can easily make payments to get tickets for events. Stripe is 
 
 ## Resources
 
-- Eventyay Attendee Pull Request on Stripe: https://github.com/fossasia/open-event-attendee-android/pull/1863
+- [Eventyay Attendee Pull Request on Stripe](https://github.com/fossasia/open-event-attendee-android/pull/1863)
 
-- Documentation from Stripe for Android: https://stripe.com/docs/mobile/android
+- [Documentation from Stripe for Android](https://stripe.com/docs/mobile/android)

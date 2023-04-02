@@ -5,7 +5,7 @@ date:   2019-09-05 00:00:00 +0200
 categories: jekyll update
 ---
 
-<center><img src="./images/img_3.png"></center>
+<center><img src="/assets/images/img_3.png"></center>
 
 *The original blog post is posted in FOSSASIA blog site [here](https://blog.fossasia.org/implementing-places-autosuggestion-with-mapbox-for-searching-events-in-eventyay-attendee/).*
 
@@ -108,7 +108,7 @@ private fun setupRecyclerPlaceSuggestions() {
 
 ## Results
 
-<center><img src="./images/autolocation.gif"></center>
+<center><img src="/assets/images/autolocation.gif"></center>
 
 ## Conclusions
 
@@ -116,6 +116,6 @@ private fun setupRecyclerPlaceSuggestions() {
 
 ## Resources
 
-- Eventyay Attendee Android Codebase: https://github.com/fossasia/open-event-android
+- [Eventyay Attendee Android Codebase](https://github.com/fossasia/open-event-android)
 - Eventyay Attendee [PR: #1594 — feat: Mapbox Autosuggest](https://github.com/fossasia/open-event-android/pull/1594)
-- Documentation: https://docs.mapbox.com/android/plugins/overview/places/
+- [Documentation](https://docs.mapbox.com/android/plugins/overview/places/)

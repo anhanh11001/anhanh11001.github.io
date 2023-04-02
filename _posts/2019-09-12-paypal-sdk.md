@@ -148,14 +148,14 @@ def used_payment(payment_id, order):
 
 ## Results and Conclusions
 
-<center><img src="./images/img_14.gif"/></center>
+<center><img src="/assets/images/img_14.gif"/></center>
 
 PayPal is a great payment gateway that is used by millions of users around the world. It supports a lot of currency, has good security and has a lot of additional features. It is really easy to implement and test.
 
 ## Resources
 
-- Github Android SDK: https://github.com/paypal/PayPal-Android-SDK
+- [Github Android SDK](https://github.com/paypal/PayPal-Android-SDK)
 
-- Open Event Attendee Android: https://github.com/fossasia/open-event-attendee-android/pull/2223
+- [Open Event Attendee Android](https://github.com/fossasia/open-event-attendee-android/pull/2223)
 
-- Open Event Server: https://github.com/fossasia/open-event-server/commit/ead0ba06c771ec452f11d01d88d08042474be291
+- [Open Event Server](https://github.com/fossasia/open-event-server/commit/ead0ba06c771ec452f11d01d88d08042474be291)
