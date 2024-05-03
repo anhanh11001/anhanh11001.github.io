@@ -5,6 +5,7 @@ Note for my future self:
 ## How to run locally?
 
 1 - Go to the terminal and type `bundle exec jekyll serve`
+
 2 - If environment fail, check setup page to install ruby + jekyll: https://jekyllrb.com/docs/installation/
 
 ## How to add a new blog page?
