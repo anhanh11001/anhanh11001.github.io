@@ -2,7 +2,7 @@
 layout: post
 title:  "Enhancing Network Requests by Chaining or Zipping with RxJava"
 date:   2019-09-11 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 <center><img src="/assets/images/img_13.png"></center>

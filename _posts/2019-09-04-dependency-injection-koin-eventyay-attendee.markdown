@@ -2,7 +2,7 @@
 layout: post
 title:  "Dependency Injection with Kotlin Koin in Eventyay Attendee"
 date:   2019-09-04 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 <center><img src="/assets/images/img_2.png"></center>

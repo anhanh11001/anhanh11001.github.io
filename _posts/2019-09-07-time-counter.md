@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding time counter on ordering tickets in Eventyay Attendee"
 date:   2019-09-07 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 <center><img src="/assets/images/img_5.gif"/></center>

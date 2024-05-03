@@ -2,7 +2,7 @@
 layout: post
 title:  "My advice on getting into Google Summer of Code 2020"
 date:   2019-11-30 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 As a GSoC participant and finalist in 2019 with [FOSSASIA](https://github.com/fossasia), I’m always appreciated by how much the open-source community has taught me and how many work opportunities it gave. This post is my detailed advice on getting into GSoC 2020 for upcoming students.

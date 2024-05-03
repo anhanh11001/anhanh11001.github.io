@@ -2,7 +2,7 @@
 layout: post
 title:  "Implement PayPal SDK Android for payments in Eventyay Attendee"
 date:   2019-09-12 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 In [Eventyay Attendee](https://github.com/fossasia/open-event-attendee-android), one of our core features is paying for tickets for events. PayPal is one of the most famous payment gateways with millions of users around the world, and it is a part of our system. Let’s take a look at the implementation:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementing Stripe payment in Eventyay Attendee"
 date:   2019-09-10 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 <center>

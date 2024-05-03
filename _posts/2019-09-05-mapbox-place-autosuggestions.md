@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementing places autosuggestion with Mapbox for searching events in Eventyay Attendee"
 date:   2019-09-05 00:00:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 <center><img src="/assets/images/img_3.png"></center>
